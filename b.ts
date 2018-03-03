@@ -7,14 +7,8 @@
 
 //axb608-01 branch line 8
 //0:12 dev linea 9
-<<<<<<< HEAD
-
 //dev line 10 because yes
-
 //axb609-01 line 11
 
-//0:03 axb line 14
-=======
-//dev line 10 because yes
 
->>>>>>> dev line 10 because yes
+//0:03 axb line 14
